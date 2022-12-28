@@ -1,7 +1,5 @@
-# coletaDadosTwitter_Tweepy
+# Exemplo: API do Twitter
 Para coleta dados do Twitter vamos precisar,
-
-Exemplo: API do Twitter
 
 ❑ Necessário ter uma conta no Twitter.
  https://apps.twitter.com/
